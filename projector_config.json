@@ -1,0 +1,22 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Multilingual Test (Qwen/Qwen3-Embedding-0.6B)",
+      "tensorShape": [
+        500,
+        1024
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/choweric/embedding_test/main/Qwen_Qwen3-Embedding-0.6B/Qwen_Qwen3-Embedding-0.6B_tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/choweric/embedding_test/main/Qwen_Qwen3-Embedding-0.6B/Qwen_Qwen3-Embedding-0.6B_metadata.tsv"
+    },
+    {
+      "tensorName": "Multilingual Test (nomic-ai/nomic-embed-text-v1.5)",
+      "tensorShape": [
+        500,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/choweric/embedding_test/main/nomic-ai_nomic-embed-text-v1.5/nomic-ai_nomic-embed-text-v1.5_tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/choweric/embedding_test/main/nomic-ai_nomic-embed-text-v1.5/nomic-ai_nomic-embed-text-v1.5_metadata.tsv"
+    }
+  ]
+}
